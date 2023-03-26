@@ -1,5 +1,5 @@
 ---
-title: "A Top Down Approach To Learning"
+title: "The Case For A Top Down Approach To Learning"
 date: 2023-03-26T22:03:37+05:30
 draft: true
 ---
@@ -11,8 +11,6 @@ A top-down approach to learning can be succinctly summarized by the following qu
 
 > *"Don't get lost in the weeds."*
 
-<!-- ![Blind Elephant](/blind_elephant.webp)
-{{ $image := resources.GetRemote "https://padaseva.in/wp-content/uploads/2019/12/elephant-blind-men.jpg" }} -->
 {{<figure src="https://padaseva.in/wp-content/uploads/2019/12/elephant-blind-men.jpg" caption="Blind Elephant" width="80%" align="center">}}
 
 Instead of getting bogged down in details, it emphasizes looking at a helicopter-view of the field, learning how each of the subtopics/components *interact* before learning about each of them individually. Each subtopic/component is treated as a 'black box' with its *details* abstracted away.
