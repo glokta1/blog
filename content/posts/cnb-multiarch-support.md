@@ -2,6 +2,8 @@
 title: "Cloud Native Buildpacks - MultiArch Support"
 date: 2023-03-26T23:35:48+05:30
 draft: true
+cover:
+    image: "https://buildpacks.io/images/buildpacks-logo.svg"
 ---
 
 ## Problem
