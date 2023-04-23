@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://rafey.cc/posts/intro-to-oauth/</loc>
+    <lastmod>2023-04-01T01:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://rafey.cc/posts/</loc>
+    <lastmod>2023-04-01T01:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://rafey.cc/</loc>
+    <lastmod>2023-04-01T01:12:53+05:30</lastmod>
+  </url><url>
+    <loc>https://rafey.cc/posts/rl-agent-snl/</loc>
+    <lastmod>2023-03-28T01:54:20+05:30</lastmod>
+  </url><url>
+    <loc>https://rafey.cc/posts/cnb-multiarch-support/</loc>
+    <lastmod>2023-03-26T23:35:48+05:30</lastmod>
+  </url><url>
+    <loc>https://rafey.cc/posts/top-down-approach/</loc>
+    <lastmod>2023-03-26T22:03:37+05:30</lastmod>
+  </url><url>
+    <loc>https://rafey.cc/categories/</loc>
+  </url><url>
+    <loc>https://rafey.cc/tags/</loc>
+  </url>
+</urlset>

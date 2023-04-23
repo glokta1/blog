@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Rafey Ahmad</title>
+    <link>https://rafey.cc/posts/</link>
+    <description>Recent content in Posts on Rafey Ahmad</description>
+    <image>
+      <title>Rafey Ahmad</title>
+      <url>https://rafey.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://rafey.cc/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 01 Apr 2023 01:12:53 +0530</lastBuildDate><atom:link href="https://rafey.cc/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Intro to OAuth</title>
+      <link>https://rafey.cc/posts/intro-to-oauth/</link>
+      <pubDate>Sat, 01 Apr 2023 01:12:53 +0530</pubDate>
+      
+      <guid>https://rafey.cc/posts/intro-to-oauth/</guid>
+      <description>Why should I care? The Four Horsemen Resource Owner (User) Client/Application (Visitor) Authorization Server (Entrance Gate) Resource Server (Home) Outline Analogy Performing OAuth2 for an application is like buying tickets to Disneyland Resource Owner -&amp;gt; Disneyland&amp;rsquo;s Owners Client/Application -&amp;gt; Customers/Visitors Authorization Server -&amp;gt; Ticket checking at the entrance Resource Server - Disneyland Diagram High-level overview of the OAuth Workflow
+Example Plain English Technical Definition Steps The application(you, the customer) requests authorization to access service resources from the user &amp;ndash;&amp;gt; Buying tickets for Disneyland Online If the user authorized the request, the application receives an authorization grant &amp;ndash;&amp;gt; On successful booking, you receive tickets(auth grant) The application requests an access token from the authorization server (API) by presenting authentication of its own identity(DL, Aadhar, PAN Card), and the authorization grant (Tickets) If the application identity is authenticated and the authorization grant is valid, the authorization server (API) issues an access token (a band) to the application.</description>
+    </item>
+    
+    <item>
+      <title>🚧WIP: Building an RL agent to play Snakes and Ladders🚧</title>
+      <link>https://rafey.cc/posts/rl-agent-snl/</link>
+      <pubDate>Tue, 28 Mar 2023 01:54:20 +0530</pubDate>
+      
+      <guid>https://rafey.cc/posts/rl-agent-snl/</guid>
+      <description>Goal Build an RL-based agent that can beat humans in a modified version of the classic board game &amp;lsquo;Snakes and Ladders&amp;rsquo;.
+Wait, isn&amp;rsquo;t Snakes and Ladders entirely random? Yes. The original game is subject to the whims of the probability gods manifested as a dice. Clearly, the agent has no decisions to make in this version and it&amp;rsquo;s as useless as me holding the torch while my dad fixes the cooler.</description>
+    </item>
+    
+    <item>
+      <title>Cloud Native Buildpacks - MultiArch Support</title>
+      <link>https://rafey.cc/posts/cnb-multiarch-support/</link>
+      <pubDate>Sun, 26 Mar 2023 23:35:48 +0530</pubDate>
+      
+      <guid>https://rafey.cc/posts/cnb-multiarch-support/</guid>
+      <description>Problem Currently pack can only build images for the same architecture as the host system.
+Goal Provide option for cross compiling to different architectures and OS&amp;rsquo;es in pack CLI
+Understanding What are Cloud Native Buildpacks? Dockerfiles vs CNBs https://tanzu.vmware.com/developer/blog/understanding-the-differences-between-dockerfile-and-cloud-native-buildpacks/ CNBs are readymade, rigorous, battle-tested Dockerfiles that you can include in your projects instead of making ones yourself. Saves time, improves security, at the cost of flexibility like with anything pre-made. Think pre-built PCs vs Custom PCs How is pack related to CNBs?</description>
+    </item>
+    
+    <item>
+      <title>The Case For A Top Down Approach To Learning</title>
+      <link>https://rafey.cc/posts/top-down-approach/</link>
+      <pubDate>Sun, 26 Mar 2023 22:03:37 +0530</pubDate>
+      
+      <guid>https://rafey.cc/posts/top-down-approach/</guid>
+      <description>A top-down approach to learning can be succinctly summarized by the following quotes:
+&amp;ldquo;Don&amp;rsquo;t miss the forest for the trees.&amp;rdquo;
+&amp;ldquo;You can&amp;rsquo;t see the picture when you&amp;rsquo;re inside the frame&amp;rdquo;
+&amp;ldquo;Don&amp;rsquo;t get lost in the weeds.&amp;rdquo;
+Blind Elephant
+Instead of getting bogged down in details, it emphasizes looking at a helicopter-view of the field, learning how each of the subtopics/components interact before learning about each of them individually. Each subtopic/component is treated as a &amp;lsquo;black box&amp;rsquo; with its details abstracted away.</description>
+    </item>
+    
+  </channel>
+</rss>
