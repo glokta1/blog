@@ -1,7 +1,7 @@
 ---
 title: "Intro to OAuth"
 date: 2023-04-01T01:12:53+05:30
-draft: true
+draft: false
 ---
 
 ## Why should I care?

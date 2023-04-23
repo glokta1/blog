@@ -1,7 +1,7 @@
 ---
 title: "The Case For A Top Down Approach To Learning"
 date: 2023-03-26T22:03:37+05:30
-draft: true
+draft: false
 ---
 
 A top-down approach to learning can be succinctly summarized by the following quotes:
