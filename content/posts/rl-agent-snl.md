@@ -1,7 +1,7 @@
 ---
 title: "🚧WIP: Building an RL agent to play Snakes and Ladders🚧"
 date: 2023-03-28T01:54:20+05:30
-draft: false
+draft: true
 ---
 
 ## Goal
