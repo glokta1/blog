@@ -11,7 +11,7 @@ draft: false
 - Instinct
     - developed through lots and lots of repetition
     - all athletes at the highest levels are unable to explain how they do certain things. 
-    - *"And suddenly I realized that I was no longer driving the car consciously. I was driving it by a kind of instinct, only I was in a different dimension."*
+    - Ayrton Senna: *"And suddenly I realized that I was no longer driving the car consciously. I was driving it by a kind of instinct, only I was in a different dimension."* https://www.youtube.com/watch?v=NeFqsWWG1qE
     - ruben dias defending 101 clip: https://www.youtube.com/watch?v=eqY-BdErllw
     - "ye idea kaise chamka?"
 - Advice is consumed passively. Almost never effective in changing behavior.
