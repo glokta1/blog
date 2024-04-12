@@ -1,6 +1,6 @@
 ---
 title: "(DRAFT) In defense of the Todo App"
-draft: false
+draft: true
 ---
 
 Thesis: Basic projects (like the todo app) are great for learning because they strip out all the complexity and enable a laser-like focus on the fundamentals. These fundamentals form the building blocks for 95% of real-world applications. 
